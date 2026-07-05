@@ -15,7 +15,7 @@ export function Home() {
           <div className="max-w-2xl">
             <h2 className="text-2xl font-bold text-slate-900">Hauling & Delivery Planning</h2>
             <p className="text-slate-600 text-sm mt-2 leading-relaxed">
-              Calculate hauling costs, plan delivery routes, and optimize fuel efficiency for rural and agricultural operations. Part of the Rural Utility Cost ecosystem.
+              Calculate hauling costs, plan delivery routes, and optimize fuel efficiency for rural and agricultural operations. Part of the Rural Ops Tools ecosystem.
             </p>
           </div>
           <div className="flex flex-wrap gap-3">

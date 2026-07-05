@@ -8,11 +8,11 @@ export function Navbar() {
   const location = useLocation();
 
   const links = [
-    { label: 'Home', href: 'https://ruralutilitycost.com', external: true },
-    { label: 'Plan', href: 'https://ruralutilitycost.com/plan', external: true },
-    { label: 'Forecast', href: 'https://ruralutilitycost.com/forecast', external: true },
-    { label: 'What If', href: 'https://ruralutilitycost.com/what-if', external: true },
-    { label: 'Predictor', href: 'https://ruralutilitycost.com/predictor', external: true },
+    { label: 'Home', href: 'https://ruralopstools.com', external: true },
+    { label: 'Plan', href: 'https://ruralopstools.com/plan', external: true },
+    { label: 'Forecast', href: 'https://ruralopstools.com/forecast', external: true },
+    { label: 'What If', href: 'https://ruralopstools.com/what-if', external: true },
+    { label: 'Predictor', href: 'https://ruralopstools.com/predictor', external: true },
     { label: 'Transport', href: '/', external: false, active: true },
     { label: 'My favorites', href: '/favorites', external: false },
   ];
@@ -25,7 +25,7 @@ export function Navbar() {
             R
           </div>
           <div className="leading-tight hidden sm:block">
-            <h1 className="text-sm font-bold text-slate-900 group-hover:text-[#1e3a8a] transition-colors">Rural Utility Cost</h1>
+            <h1 className="text-sm font-bold text-slate-900 group-hover:text-[#1e3a8a] transition-colors">Rural Ops Tools</h1>
             <p className="text-xs text-blue-700 font-semibold">Transport & Logistics Hub</p>
           </div>
         </Link>

@@ -5,7 +5,7 @@ export function Contact() {
       
       <div className="prose prose-slate max-w-none text-slate-600 text-sm">
         <p className="leading-relaxed mb-8">
-          The Rural Utility Cost ecosystem is maintained centrally. Whether you have inquiries regarding our Transport tools, the main predictor platform, or general feature requests, you can reach our team using the links below.
+          The Rural Ops Tools ecosystem is maintained centrally. Whether you have inquiries regarding our Transport tools, the main predictor platform, or general feature requests, you can reach our team using the links below.
         </p>
         
         <div className="bg-white rounded-xl border border-slate-200 p-6 shadow-sm">
@@ -17,7 +17,7 @@ export function Contact() {
           <div className="space-y-6">
             <div>
               <span className="text-xs font-bold text-slate-400 uppercase tracking-widest block mb-1">General Support & Inquiries</span>
-              <a href="mailto:support@ruralutilitycost.com" className="text-[#1e3a8a] font-medium hover:underline text-base">support@ruralutilitycost.com</a>
+              <a href="mailto:support@ruralopstools.com" className="text-[#1e3a8a] font-medium hover:underline text-base">support@ruralopstools.com</a>
             </div>
           </div>
         </div>

@@ -10,7 +10,7 @@ export function PrivacyPolicy() {
       <div className="prose prose-slate max-w-none text-slate-600 text-sm">
         <h2 className="text-lg font-bold text-slate-900 mt-8 mb-3">1. Information We Collect</h2>
         <p className="leading-relaxed mb-4">
-          <strong>Usage Data:</strong> When you visit Rural Utility Cost and its subdomains, we may collect standard anonymous web telemetry (such as your browser type, referring domain, which calculators you load, and time spent on page).
+          <strong>Usage Data:</strong> When you visit Rural Ops Tools and its subdomains, we may collect standard anonymous web telemetry (such as your browser type, referring domain, which calculators you load, and time spent on page).
         </p>
         <p className="leading-relaxed mb-6">
           <strong>Local Storage:</strong> Certain features, such as "My Favorites", utilize your browser's Local Storage to persist your selections across sessions. This data never leaves your device and is not saved to our servers.

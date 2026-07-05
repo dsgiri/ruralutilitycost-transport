@@ -22,7 +22,7 @@ export function Footer() {
           })}
         </div>
         <div className="text-[11px] text-slate-400 text-center md:text-right max-w-md leading-relaxed">
-          © {new Date().getFullYear()} ruralutilitycost.com ecosystem. Calculations and estimates are for decision support only.{' '}
+          © {new Date().getFullYear()} ruralopstools.com ecosystem. Calculations and estimates are for decision support only.{' '}
           {isLocalDisclaimer ? (
             <Link to={LEGAL_CONFIG.disclaimer} className="underline hover:text-[#1e3a8a] transition-colors">See full disclaimer</Link>
           ) : (

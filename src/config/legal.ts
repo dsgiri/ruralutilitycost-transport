@@ -1,12 +1,12 @@
 export const USE_LOCAL_PREVIEW = false; // Set to false to enforce canonical main domain URLs on subdomains
 
 export const LEGAL_CONFIG = {
-  about: USE_LOCAL_PREVIEW ? "/about" : "https://ruralutilitycost.com/about",
-  portfolio: USE_LOCAL_PREVIEW ? "/portfolio" : "https://ruralutilitycost.com/portfolio",
-  contact: USE_LOCAL_PREVIEW ? "/contact" : "https://ruralutilitycost.com/contact",
-  privacyPolicy: USE_LOCAL_PREVIEW ? "/privacy-policy" : "https://ruralutilitycost.com/privacy-policy",
-  termsOfUse: USE_LOCAL_PREVIEW ? "/terms-of-use" : "https://ruralutilitycost.com/terms-of-use",
-  disclaimer: USE_LOCAL_PREVIEW ? "/disclaimer" : "https://ruralutilitycost.com/disclaimer",
+  about: USE_LOCAL_PREVIEW ? "/about" : "https://ruralopstools.com/about",
+  portfolio: USE_LOCAL_PREVIEW ? "/portfolio" : "https://ruralopstools.com/portfolio",
+  contact: USE_LOCAL_PREVIEW ? "/contact" : "https://ruralopstools.com/contact",
+  privacyPolicy: USE_LOCAL_PREVIEW ? "/privacy-policy" : "https://ruralopstools.com/privacy-policy",
+  termsOfUse: USE_LOCAL_PREVIEW ? "/terms-of-use" : "https://ruralopstools.com/terms-of-use",
+  disclaimer: USE_LOCAL_PREVIEW ? "/disclaimer" : "https://ruralopstools.com/disclaimer",
 };
 
 export const FOOTER_LINKS = [

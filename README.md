@@ -1,9 +1,9 @@
-# Rural Utility Cost - Transport Hub
+# Rural Ops Tools - Transport Hub
 
-**Domain:** [transport.ruralutilitycost.com](https://transport.ruralutilitycost.com)
-**Repository:** [dsgiri/RuralUtilityCost-Transport](https://github.com/dsgiri/RuralUtilityCost-Transport)
+**Domain:** [transport.ruralopstools.com](https://transport.ruralopstools.com)
+**Repository:** [dsgiri/RuralOpsTools-Transport](https://github.com/dsgiri/RuralOpsTools-Transport)
 
-The Transport Hub (`transport.ruralutilitycost.com`) is a specialized logistics and planning application within the Rural Utility Cost ecosystem. It provides practical estimators and calculators to help agricultural and rural operators manage hauling costs, fuel use, delivery routes, and mileage.
+The Transport Hub (`transport.ruralopstools.com`) is a specialized logistics and planning application within the Rural Ops Tools ecosystem. It provides practical estimators and calculators to help agricultural and rural operators manage hauling costs, fuel use, delivery routes, and mileage.
 
 ## Features
 
@@ -55,17 +55,17 @@ The application centralizes its About, Contact, Privacy, Terms, and Disclaimer p
 - **[AGENTS.md](./AGENTS.md)**: System instructions and ecosystem constraints for AI coding agents.
 - **[CALCULATOR-STANDARD.md](./CALCULATOR-STANDARD.md)**: Design and architectural standards for new calculator tools.
 
-## Related Rural Utility Cost Links
+## Related Rural Ops Tools Links
 
-- [Master Website](https://ruralutilitycost.com)
-- [Ecosystem Portfolio](https://ruralutilitycost.com/portfolio)
-- [Transport GitHub Repository](https://github.com/dsgiri/RuralUtilityCost-Transport)
+- [Master Website](https://ruralopstools.com)
+- [Ecosystem Portfolio](https://ruralopstools.com/portfolio)
+- [Transport GitHub Repository](https://github.com/dsgiri/RuralOpsTools-Transport)
 
 **Related Subdomains:**
-- [Plan](https://plan.ruralutilitycost.com)
-- [Forecast](https://forecast.ruralutilitycost.com)
-- [Predictor](https://predictor.ruralutilitycost.com)
-- [What-If](https://whatif.ruralutilitycost.com)
+- [Plan](https://plan.ruralopstools.com)
+- [Forecast](https://forecast.ruralopstools.com)
+- [Predictor](https://predictor.ruralopstools.com)
+- [What-If](https://whatif.ruralopstools.com)
 
 ---
 

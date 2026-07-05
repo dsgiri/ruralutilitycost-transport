@@ -5,7 +5,7 @@ export function Portfolio() {
       
       <div className="prose prose-slate max-w-none text-slate-600 text-sm mb-12">
         <p className="leading-relaxed text-base">
-          Rural Utility Cost handles a variety of operational domains. Each utility is separated into focused subdomains to ensure maximum performance and minimal interface clutter.
+          Rural Ops Tools handles a variety of operational domains. Each utility is separated into focused subdomains to ensure maximum performance and minimal interface clutter.
         </p>
       </div>
 
@@ -16,7 +16,7 @@ export function Portfolio() {
             <span className="text-[10px] bg-blue-50 text-[#1e3a8a] px-2 py-1 rounded font-bold uppercase tracking-wider">Active</span>
           </h2>
           <p className="text-slate-600 text-sm mb-4">
-            transport.ruralutilitycost.com
+            transport.ruralopstools.com
           </p>
           <p className="text-sm">
             Focus: Estimators for hauling costs, optimal delivery routes, mileage calculations, and empty-mile reduction algorithms for agricultural shipments.
@@ -29,7 +29,7 @@ export function Portfolio() {
             <span className="text-[10px] bg-slate-100 text-slate-500 px-2 py-1 rounded font-bold uppercase tracking-wider">Coming Soon</span>
           </h2>
           <p className="text-slate-600 text-sm mb-4">
-            predictor.ruralutilitycost.com
+            predictor.ruralopstools.com
           </p>
           <p className="text-sm">
             Focus: Localized harvest forecasting based on historical precipitation and soil utility averages.
@@ -42,7 +42,7 @@ export function Portfolio() {
             <span className="text-[10px] bg-slate-100 text-slate-500 px-2 py-1 rounded font-bold uppercase tracking-wider">Coming Soon</span>
           </h2>
           <p className="text-slate-600 text-sm mb-4">
-            whatif.ruralutilitycost.com
+            whatif.ruralopstools.com
           </p>
           <p className="text-sm">
             Focus: Scenario planning for barn construction, silo placement, and irrigation equipment capital expenditures.

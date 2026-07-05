@@ -16,12 +16,12 @@ export function Disclaimer() {
 
         <h3 className="text-lg font-bold text-slate-900 mt-8 mb-3">No Professional Advice</h3>
         <p className="leading-relaxed mb-6">
-          The calculators, route planners, and forecasting models provided by any Rural Utility Cost subdomain (including Transport, Protocol, and the master site) are intended solely as utility tools for self-estimation. We are not a logistics brokerage, financial advisory, legal firm, or certified engineering consultancy. No fiduciary or professional client relationship is created by using these tools.
+          The calculators, route planners, and forecasting models provided by any Rural Ops Tools subdomain (including Transport, Protocol, and the master site) are intended solely as utility tools for self-estimation. We are not a logistics brokerage, financial advisory, legal firm, or certified engineering consultancy. No fiduciary or professional client relationship is created by using these tools.
         </p>
         
         <h3 className="text-lg font-bold text-slate-900 mt-8 mb-3">Accuracy of Assumptions & Market Dynamics</h3>
         <p className="leading-relaxed mb-6">
-          Calculations rely significantly on values you manually input (such as MPG, specific weight targets, local fuel costs, and driver wages) as well as broad regional averages. Rural Utility Cost cannot guarantee accuracy due to highly volatile real-world factors, including:
+          Calculations rely significantly on values you manually input (such as MPG, specific weight targets, local fuel costs, and driver wages) as well as broad regional averages. Rural Ops Tools cannot guarantee accuracy due to highly volatile real-world factors, including:
         </p>
         <ul className="list-disc pl-5 mb-6 space-y-2">
           <li>Unanticipated changes in daily fuel and petroleum markets.</li>
@@ -32,7 +32,7 @@ export function Disclaimer() {
 
         <h3 className="text-lg font-bold text-slate-900 mt-8 mb-3">Limitation of Liability</h3>
         <p className="leading-relaxed mb-6">
-          Under no circumstances shall Rural Utility Cost, its owners, developers, or affiliates be liable for direct, indirect, incidental, consequential, special, or exemplary damages arising out of or in connection with the use of our tools. This includes, but is not limited to, losses from under-bidding a contract, unprofitable route deviations, regulatory fines from overloaded hauls, or miscalculated overheads. 
+          Under no circumstances shall Rural Ops Tools, its owners, developers, or affiliates be liable for direct, indirect, incidental, consequential, special, or exemplary damages arising out of or in connection with the use of our tools. This includes, but is not limited to, losses from under-bidding a contract, unprofitable route deviations, regulatory fines from overloaded hauls, or miscalculated overheads. 
         </p>
 
         <h3 className="text-lg font-bold text-slate-900 mt-8 mb-3">Independent Verification</h3>
@@ -42,7 +42,7 @@ export function Disclaimer() {
 
         <div className="mt-12 pt-6 border-t border-slate-200">
           <p className="text-xs text-slate-400">
-            Last Updated: June 2026. This disclaimer applies globally across all tools and applications hosted within the Rural Utility Cost ecosystem.
+            Last Updated: June 2026. This disclaimer applies globally across all tools and applications hosted within the Rural Ops Tools ecosystem.
           </p>
         </div>
       </div>
